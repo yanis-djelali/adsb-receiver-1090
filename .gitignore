@@ -1,0 +1,8 @@
+# Donnees et fichiers fournis par l'ecole : non redistribues
+data/*.mat
+ecole/*
+!ecole/README.md
+
+# Fichiers temporaires MATLAB
+*.asv
+*.autosave
